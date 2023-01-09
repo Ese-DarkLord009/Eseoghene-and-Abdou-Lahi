@@ -1,0 +1,16 @@
+@media(max-width:1900) and (min-width:300) {
+
+}
+#welcome-section {
+    height: 100vw;
+    position: relative;
+    padding-top: 40px;
+}
+    
+#navbar{
+    width: 100%;
+    padding-bottom: 50px;
+    position:fixed;
+
+    
+}
